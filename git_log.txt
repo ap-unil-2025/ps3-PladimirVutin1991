@@ -1,2 +1,4 @@
+44e873f Add hello_git.py
+ac61c47 Add git history
 7bcb689 Add GitHub Classroom autograding configuration
 2dc2daa Initial commit
